@@ -1,0 +1,7 @@
+/main
+*.py
+*.save
+__pycache__/
+*.pem
+*.key
+*.env
