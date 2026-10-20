@@ -1,7 +1,11 @@
 /main
 *.py
+!lib/core.py
 *.save
 __pycache__/
 *.pem
 *.key
 *.env
+backup/
+*.backup-*
+*.update.tmp
